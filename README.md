@@ -1,5 +1,6 @@
 # discord-bot-python
 A simple Discord Bot template made with Python that can be fully customized. Useful for text bots.
+For more information go to https://discord.com/developers/docs/intro 
 
 # Usage
 ```python
